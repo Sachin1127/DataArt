@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-18T11:50:20 IST" name="Default suite" finished-at="2025-10-18T11:50:21 IST" duration-ms="211">
+    <groups>
+    </groups>
+    <test started-at="2025-10-18T11:50:20 IST" name="Default test" finished-at="2025-10-18T11:50:21 IST" duration-ms="211">
+      <class name="Test.MyCvTest">
+        <test-method is-config="true" signature="setupCv()[pri:0, instance:Test.MyCvTest@54e1c68b]" started-at="2025-10-18T11:50:21 IST" name="setupCv" finished-at="2025-10-18T11:50:21 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupCv -->
+        <test-method signature="printCvDetails()[pri:0, instance:Test.MyCvTest@54e1c68b]" started-at="2025-10-18T11:50:21 IST" name="printCvDetails" finished-at="2025-10-18T11:50:21 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printCvDetails -->
+        <test-method is-config="true" signature="validateCvFields()[pri:0, instance:Test.MyCvTest@54e1c68b]" started-at="2025-10-18T11:50:21 IST" name="validateCvFields" finished-at="2025-10-18T11:50:21 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCvFields -->
+      </class> <!-- Test.MyCvTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
